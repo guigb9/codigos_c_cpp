@@ -1,0 +1,17 @@
+# Arquivos de compilação
+*.o
+*.out
+*.obj
+
+# Arquivos executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos gerados pelo Make
+Makefile
+Makefile.*
+
+# Arquivos temporários
+*.swp
+*~
